@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora de Area (dab)</string>
+    <string name="ladoUno">Lado Uno</string>
+    <string name="ladoDos">Lado Dos</string>
+    <string name="area_triangulo">Area tríangulo</string>
+    <string name="area_cuadrado">Area Cuadrado</string>
+    <string name="send">Calcular</string>
+    <string name="baseUno">Base Uno</string>
+    <string name="Text_Resultado">0.0</string>
+    <string name="alturaUno">Altura Uno</string>
+    <string name="valorAlturaUno">0</string>
+</resources>
